@@ -1,4 +1,4 @@
-# 🚀 Product Launch Intelligence – LangGraph Sidekick
+# 🚀 # 🚀 LaunchLens – AI-Powered Product Launch Intelligence– LangGraph Sidekick
 
 ⚠️ **Status: In Development**  
 This project is an experimental prototype and is still being actively developed.  
